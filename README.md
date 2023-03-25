@@ -5,5 +5,8 @@
   小狗，对比度拉伸不明显![XPPG_Z9DPB)LZ`DJ6} PHSA](https://user-images.githubusercontent.com/98206033/227700039-4e0e43a3-1534-4b69-8b2c-3a1f43b6d651.png)  
   对花粉的原图和经过对比度拉伸后的图像对比
 ![M7%{ {91 GCK)K$9H9@RO@6](https://user-images.githubusercontent.com/98206033/227700082-8c91d76c-6389-477e-9091-81b2071a1ee7.png)  
-经阈值处理后的狗狗图像和花粉图像如图所示  ![image](https://user-images.githubusercontent.com/98206033/227700254-afe0ddc4-52a9-4cb8-818a-0ef70fcaa605.png)
-似乎区分度更大...
+经阈值处理后的狗狗图像和花粉图像如图所示  ![image](https://user-images.githubusercontent.com/98206033/227700254-afe0ddc4-52a9-4cb8-818a-0ef70fcaa605.png)  
+似乎区分度更大...  
+灰度级分层  ![20180920191102218](https://user-images.githubusercontent.com/98206033/227700319-05d514e7-d97d-4074-b716-1c4355cdd533.png)  
+原图与效果图如图  
+![35R`Y(E0(KZ9Y 4KMK$4S7G](https://user-images.githubusercontent.com/98206033/227700345-5fe49d61-cd70-414e-82c6-a93497465ce7.png)
